@@ -18,4 +18,16 @@ Oct 12 -- 13
 
 ## Schedule 
 
+This is a two-day workshop, with the following tentative events
+
+- Two invited talks on LLMs for science and engineering applications
+- Two poster sessions 
+- An LLM hackathon
+- A roundtable discussion 
+
+
+## Resources for LLMs
+
+TODO
+
 
