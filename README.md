@@ -4,7 +4,7 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 
 ## Dates
 
-Oct 12 -- 13
+Oct. 19 -- Oct. 20
 
 
 ## Organizers
