@@ -7,13 +7,6 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 Oct. 19 -- Oct. 20
 
 
-## Organizers
-
-- Yangfeng Ji (CS)
-- Felix X. Lin (CS)
-- Prasanna Balachandran (MSE/MAE)
-- Meiqin Li (APMA)
-- Sara Riggs (SIE)
 
 
 ## Schedule 
@@ -26,8 +19,23 @@ This is a two-day workshop, with the following tentative events
 - A roundtable discussion 
 
 
-## Resources for LLMs
+## Organizers
 
-TODO
+- Yangfeng Ji (CS)
+- Felix X. Lin (CS)
+- Prasanna Balachandran (MSE/MAE)
+- Meiqin Li (APMA)
+- Sara Riggs (SIE)
+
+
+## Committee Members
+
+TBA
+
+
+
+<!-- ## Resources for LLMs -->
+
+<!-- TODO -->
 
 
