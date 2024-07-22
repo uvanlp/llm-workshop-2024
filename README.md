@@ -7,16 +7,18 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 Oct. 19 -- Oct. 20
 
 
-
-
-## Schedule 
+## Tentative Agenda 
 
 This is a two-day workshop, with the following tentative events
 
-- Two invited talks on LLMs for science and engineering applications
-- Two poster sessions 
-- An LLM hackathon
-- A roundtable discussion 
+- Day 1: Ideation
+  - Invited talks
+  - Brainstorming discussion, and
+  - Poster sessions
+- Day 2: Hands-on experience
+  - An LLM hackathon
+  - Roundtable discussion with underrepresented groups
+  - Demonstrations of LLM applications
 
 
 ## Organizers
