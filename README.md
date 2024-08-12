@@ -12,10 +12,11 @@ Oct. 19 -- Oct. 20
 This is a two-day workshop, with the following tentative events
 
 - Day 1: Ideation
-  - Invited talks
+  - An invited talk
   - Brainstorming discussion, and
   - Poster sessions
 - Day 2: Hands-on experience
+  - An invited talk
   - An LLM hackathon
   - Roundtable discussion with underrepresented groups
   - Demonstrations of LLM applications
