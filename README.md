@@ -13,7 +13,7 @@ This is a two-day workshop, with the following tentative events
 
 - Day 1: Ideation
   - An invited talk
-  - Brainstorming discussion, and
+  - Panel discussion on generative AI for science
   - Poster sessions
 - Day 2: Hands-on experience
   - An invited talk
