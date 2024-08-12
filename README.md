@@ -35,6 +35,10 @@ This is a two-day workshop, with the following tentative events
 TBA
 
 
+## Acknowledgment
+
+This workshop is supported by the UVA SEAS Research Interest Group (RIG) program. 
+
 
 <!-- ## Resources for LLMs -->
 
