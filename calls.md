@@ -26,13 +26,15 @@ All students, postdocs, and faculty are invited to participate in this workshop 
 
 Please refer to the following for more information. 
 
-### 2.1 Presentations
+### 2.1 Workshop Presentations
 
 If you are interested in presenting your work and opinions in this workshop, please submit a brief description following the [ICLR template](https://github.com/ICLR/Master-Template). Typically, each submission should be one page and, at most, two pages. 
 
 All _accepted_ submissions will be presented in the poster sessions, and some of the presentations will also be highlighted in lightning talks (2 -- 5 minutes). 
 
 All submissions should be uploaded via the [LLM workshop submission page](https://openreview.net/group?id=virginia.edu/UVA/2024/LLM_Workshop) on OpenReview. 
+
+The submission deadline is **September 20, 2024**.
 
 
 ### 2.2 Topics and Ideas for Discussion
@@ -43,3 +45,5 @@ In the panel discussion of this workshop, we would like to cover some open quest
 - _How can LLMs be integrated into engineering education to enhance the learning experience and support personalized learning?_
 
 But we are more than happy to hear your thoughts. Please share your questions (up to three) for our panel discussion using this [Google Form](https://forms.gle/agpvaT5x27KVoV7M8). 
+
+The submission deadline is **October 1st, 2024**.
