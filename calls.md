@@ -13,8 +13,8 @@ This workshop has a broad technical program. All topics related to LLM in scienc
 2. LLM deployment, e.g., efficiency, security, trustworthiness, safety, and privacy;
 3. LLM domain-specific applications, e.g., science, engineering, medicine, law, and health;
 4. LLM user experience, e.g., choice of models, service, data, frameworks, or workflow;
-5. LLMs in education and form education;
-6. Ethical issues of LLMs in scientific and engineering applications, e.g., bias and fairness.
+5. LLMs in education and for education;
+6. Ethical issues in LLMs in scientific and engineering applications, e.g., bias and fairness.
 
 
 ## 2. Invitations to Participate
@@ -28,13 +28,13 @@ Please refer to the following for more information.
 
 ### 2.1 Workshop Presentations
 
-If you are interested in presenting your work and opinions in this workshop, please submit a brief description following the [ICLR template](https://github.com/ICLR/Master-Template). Typically, each submission should be one page and, at most, two pages. 
+If you are interested in presenting your work and opinions in this workshop, please submit a brief description following the [ICLR template](https://github.com/ICLR/Master-Template). Typically, each submission should be one page (approximately, 200 words) and, at most, two pages. 
 
 All _accepted_ submissions will be presented in the poster sessions, and some of the presentations will also be highlighted in lightning talks (2 -- 5 minutes). 
 
 All submissions should be uploaded via the [LLM workshop submission page](https://openreview.net/group?id=virginia.edu/UVA/2024/LLM_Workshop) on OpenReview. 
 
-The submission deadline is **September 20, 2024**.
+The submission deadline is **September 24, 2024**.
 
 
 ### 2.2 Topics and Ideas for Discussion
