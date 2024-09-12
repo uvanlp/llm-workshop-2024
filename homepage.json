@@ -1,0 +1,21 @@
+{
+    "title": "UVA LLM Workshop 2024",
+    "location": "Charlottesville, VA",
+    "deadline": "Submission Deadline: September 24, 2024",
+    "webpage": "https://uvanlp.org/llm-workshop-2024/",
+    "instructions": "
+# Important Dates
+- Submission deadline: September 24, 11:59PM, 2024
+- Workshop: October 19 -- 20
+# Submission format
+- We recommend the [ICLR template](https://github.com/ICLR/Master-Template) for submission.
+- Page limit is **one page** (at most two pages, approximately, 200 words).
+# Topics
+- Creation of LLMs, e.g., pre-training, finetuning, alignment, data acquisition and preparation;
+- LLM deployment, e.g., efficiency, security, trustworthiness, safety, and privacy;
+- LLM domain-specific applications, e.g., science, engineering, medicine, law, and health;
+- LLM user experience, e.g., choice of models, service, data, frameworks, or workflow;
+- LLMs in education and for education;
+- Ethical issues in LLMs in scientific and engineering applications, e.g., bias and fairness.
+"
+}
