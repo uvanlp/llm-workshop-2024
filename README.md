@@ -51,7 +51,7 @@ TBA
 ## Acknowledgment
 
 <p align="left">
-  <img style='height: 100%; width: 100%; object-fit: contain' src="uva-seas.png"/>
+  <img style='width: 30%; object-fit: contain' src="uva-seas.jpg"/>
 </p>
 
 
