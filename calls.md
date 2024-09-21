@@ -34,7 +34,7 @@ All _accepted_ submissions will be presented in the poster sessions, and some of
 
 All submissions should be uploaded via the [LLM workshop submission page](https://openreview.net/group?id=virginia.edu/UVA/2024/LLM_Workshop) on OpenReview. 
 
-The submission deadline is **September 24, 2024**.
+The submission deadline is **October 1, 2024, 11:59 PM**.
 
 
 ### 2.2 Topics and Ideas for Discussion
@@ -46,4 +46,4 @@ In the panel discussion of this workshop, we would like to cover some open quest
 
 But we are more than happy to hear your thoughts. Please share your questions (up to three) for our panel discussion using this [Google Form](https://forms.gle/agpvaT5x27KVoV7M8). 
 
-The submission deadline is **October 1st, 2024**.
+The submission deadline is **October 1, 2024**.
