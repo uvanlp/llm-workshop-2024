@@ -4,6 +4,9 @@
   <img style='height: 100%; width: 100%; object-fit: contain' src="call-for-participation.png"/>
 </p>
 
+
+<span align="center" style="color:red">[RSVP for the Workshop](https://forms.gle/YDu7xEGx8cCDYNp39)</span>
+
 Large language models (LLMs) are advanced AI systems that excel in comprehending and generating human language. They utilize deep learning techniques to achieve unprecedented scale and complexity in language processing. One prominent example of LLM is ChatGPT, and they find application in intelligent educational tools, offering personalized tutoring and answering questions across various subjects. Moreover, LLMs have potential applications in scientific research by summarizing scientific discovery, extracting key information, and even deriving research plans. These capabilities can be extended to assist engineering researchers and educators in their domains.
 
 This workshop is supported by the UVA Engineering Research Interest Group (RIG) program.
