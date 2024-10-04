@@ -11,7 +11,10 @@ This workshop is supported by the UVA Engineering Research Interest Group (RIG) 
 
 ## How to Participate
 
-Please register for the workshop following [this link](https://forms.gle/YDu7xEGx8cCDYNp39) by **October 13**. The registration is open to anyone who is interested in LLM research and applications. 
+
+The workshop registration is open to anyone who is interested in LLM research and applications. Please register by **October 13**.  
+
+[Registration Link](https://forms.gle/YDu7xEGx8cCDYNp39)
 
 
 ~~There are different ways to participate in this workshop, please check out the [Call for Participation](calls.md) if you are interested!~~ (The submission portal is closed.)
