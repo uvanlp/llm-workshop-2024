@@ -4,7 +4,7 @@
   <img style='height: 100%; width: 100%; object-fit: contain' src="call-for-participation.png"/>
 </p>
 
-<p style="text-align:center;">
+<p align="center">
 <span style="color:red"><a href="https://forms.gle/YDu7xEGx8cCDYNp39">RSVP</a>
 </p>
 
