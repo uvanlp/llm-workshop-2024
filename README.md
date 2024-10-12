@@ -38,17 +38,12 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 - Meiqin Li (APMA)
 - Sara Riggs (SIE)
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
-|                                                 |   |   |
-|:------------------------------------------------|:--|---|
-| <img src="figures/yangfeng.png" width="100px"/> |   |   |
-| Yangfeng Ji                                     |   |   |
-|                                                 |   |   |
+<!-- |                                                 |   |   | -->
+<!-- |:------------------------------------------------|:--|---| -->
+<!-- | <img src="figures/yangfeng.png" width="100px"/> |   |   | -->
+<!-- | Yangfeng Ji                                     |   |   | -->
+<!-- |                                                 |   |   | -->
 
 
 ## Committee Members
