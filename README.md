@@ -46,12 +46,12 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 
 <article class="mw8 center">
 <div class="fl w-25 tc pv5">
-<img src="figures/yangfeng.png" class="br-100 h4 w4 dib ba b--black-05 pa2">
+<img style='width:100px' src="figures/yangfeng.png" class="br-100 h4 w4 dib ba b--black-05 pa2">
 <h1 class="f3 mb2"><a class="dark-gray link dim" href="https://yangfengji.net/" target="_blank">Yangfeng Ji</a></h1>
 <h2 class="f5 fw4 gray mt0">University of Virginia</h2>
 </div>
 <div class="fl w-25 tc pv5">
-<img src="figures/yangfeng.png" class="br-100 h4 w4 dib ba b--black-05 pa2">
+<img style='width:100px' src="figures/yangfeng.png" class="br-100 h4 w4 dib ba b--black-05 pa2">
 <h1 class="f3 mb2"><a class="dark-gray link dim" href="https://yangfengji.net/" target="_blank">Yangfeng Ji</a></h1>
 <h2 class="f5 fw4 gray mt0">University of Virginia</h2>
 </div>
