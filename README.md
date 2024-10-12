@@ -28,19 +28,7 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 
 ## Tentative Agenda 
 
-This is a two-day workshop, with the following tentative events
-
-- Day 1: Ideation
-  - Invited talk
-  - Panel discussion on LLM research
-  - Research lightning talks
-  - Poster sessions
-- Day 2: Hands-on experience
-  - Invited talk
-  - Panel discussion on LLM applications
-  - Roundtable discussion with underrepresented groups
-  - Demonstrations of LLM in science and engineering applications
-
+**Coming Soon!**
 
 ## Organizers
 
@@ -50,6 +38,10 @@ This is a two-day workshop, with the following tentative events
 - Meiqin Li (APMA)
 - Sara Riggs (SIE)
 
+|                                                                                          |   |   |
+|:-----------------------------------------------------------------------------------------|:--|---|
+| <p align="center"> <img style='width: 20%; object-fit: contain' src="uva-seas.jpg"/></p> |   |   |
+|                                                                                          |   |   |
 
 ## Committee Members
 
