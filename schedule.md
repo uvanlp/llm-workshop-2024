@@ -15,7 +15,7 @@ WIP -- Oct 13 2024
 | 2:30 PM - 3:00 PM   | Coffee Break                       |                                                                                                                                                    |
 | 3:00 PM - 4:00 PM   | Panel Discussion: LLM applications | Host: Prasanna Balachandran<br>Panelists: Stephen Baek (SDS) <br>Afsaneh Doryab (SE/CS)<br>Tariq Iqbal (SE) <br>Sarah Sun (MAE)                    |
 | 4:00 PM - 4:15 PM   | Short Break                        |                                                                                                                                                    |
-| 4:15 PM - 5:15 PM   | Student Lightning Talks            | Student chair: Elizabeth Palmieri                                                                                                                  |
+| 4:15 PM - 5:15 PM   | Student Lightning Talks            | Student chair: Elizabeth Palmieri <br> [Detailed schedule](instructions.md)                                                                                                                |
 | 5:15 PM - 5:30 PM   | Summary and agenda for day 2       |                                                                                                                                                    |
 
 ### Day 2: Oct 20th (Sun) 
@@ -29,7 +29,7 @@ WIP -- Oct 13 2024
 | 12:00 PM - 1:30 PM       | Lunch/Poster Presentations                               | Location: Rodman room                                                                                     |
 | 1:30 PM - 2:30 PM        | Tutorial: resources to LLM users                        | Speaker: <Yangfeng Ji>                                                                                               |
 | 2:30 PM - 2:45 PM        | Short Break                                             |                                                                                                           |
-| 2:45 PM - 3:45 PM        | Student Lightning Talks                                 | Student chair: Afsara Benazir                                                                                                          |
+| 2:45 PM - 3:45 PM        | Student Lightning Talks                                 | Student chair: Afsara Benazir <br> [Detailed schedule](instructions.md)                                                                    |
 | 4:00 PM - 4:15 PM        | Closing remarks                                         | The organizing committee                                                                                  |
 
 Return to the [main page](README.md).
