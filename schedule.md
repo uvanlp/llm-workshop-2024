@@ -1,3 +1,22 @@
-schedule goes here
+WIP -- Oct 13 2024
+
+
+### Day 1: Oct 19th 
+
+| Time                     | Event                           | Note                                                                                                      |
+|--------------------------|---------------------------------|-----------------------------------------------------------------------------------------------------------|
+| 8:00 AM - 9:00 AM        | Breakfast                       | Location: Rodman room                                                                                     |
+| 9:00 AM - 9:15 AM        | Opening Remark                  | Brian Smith, Senior Associate Dean for Research and Faculty Affairs, UVA Engineering                      |
+| 9:15 AM - 10:15 AM       | Keynote                         | Speaker: Prof. Wesley Reinhart<br>Host: Prasanna Balachandran                                              |
+| 10:15 AM - 10:45 AM      | Coffee Break                    |                                                                                                           |
+| 10:45 AM - 11:45 AM      | Faculty Lightning Talk          | Host: Yangfeng Ji<br>Speakers: Ferdinando Fioretto (CS)<br>Yen Ling Kuo (CS)<br>Tom Hartvigsen (SDS)<br>Yu Meng (CS)<br>Gefforey Fox (CS) |
+| 12:00 PM - 1:30 PM       | Lunch/Poster Presentation       | Lunch: Rodman room                                                                                        |
+| 1:30 PM - 2:30 PM        | Panel Discussion: LLM technologies | Host: Felix Lin<br>Panelists: Aidong Zhang (CS)<br>Miaomiao Zhang (ECE)<br>Jingyang (ECE)<br>Yangfeng Ji (CS) |
+| 2:30 PM - 3:00 PM        | Coffee Break                    |                                                                                                           |
+| 3:00 PM - 4:00 PM        | Panel Discussion                | Host: Prasanna Balachandran<br>Panelists: Anil Vullikanti (CS/Biocomplexity)<br>Laura Barnes (SE)<br>Tariq Iqbal (SE) |
+| 4:00 PM - 4:15 PM        | Short Break                     |                                                                                                           |
+| 4:15 PM - 5:15 PM        | Student Lightning Talks         |                                                                                                           |
+| 5:15 PM - 5:30 PM        | Summary and agenda for day 2    |                                                                                                           |
+
 
 Return to the [main page](README.md).
