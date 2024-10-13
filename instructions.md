@@ -23,7 +23,7 @@ For CS students, you may use the poster printing service by following instructio
 - Before your session, see your session chair (see below) and introduce yourself.
 - Have fun!
 
-### Oct 19th (tentative: 4.15p-5.15p)
+### First session of lightning talk: Oct 19th (tentative: 4.15p-5.15p)
 
 Student session chair: Elizabeth Palmieri
 
@@ -45,7 +45,7 @@ Student session chair: Elizabeth Palmieri
 | 14                 | Crafting Conversational Companions: Exploring Older Adult's Perception and Use of LLM-Powered Voice Assistants with Induced Personalities |
 
 
-### Oct 20th (tentative: 2.45p-3.45p)
+### Second session of lightning talk: Oct 20th (tentative: 2.45p-3.45p)
 
 Student session chair: Afsara Benazir (hys4qm)
 
