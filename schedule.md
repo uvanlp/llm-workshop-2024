@@ -25,7 +25,7 @@ WIP -- Oct 13 2024
 | 8:00 AM - 9:00 AM        | Breakfast                                               | Location: Rodman room                                                                                     |
 | 9:15 AM - 10:15 AM       | Keynote                                                 | Dr. Franck Cappello, _Senior Computer Scientist, Argonne National Laboratory_<br>Host: Geoffrey Fox          |
 | 10:15 AM - 10:45 AM      | Coffee Break                                            |                                                                                                           |
-| 10:45 AM - 11:45 AM      | Roundtable discussion on broadening participation in LLM | Host: Meiqin Li and Sara Riggs                                                                            |
+| 10:45 AM - 11:45 AM      | Roundtable discussion on broadening participation in LLM | Hosts: Meiqin Li and Sara Riggs                                                                            |
 | 12:00 PM - 1:30 PM       | Lunch/Poster Presentations                               | Location: Rodman room                                                                                     |
 | 1:30 PM - 2:30 PM        | Tutorial: resources to LLM users                        | Speaker: <Yangfeng Ji>                                                                                               |
 | 2:30 PM - 2:45 PM        | Short Break                                             |                                                                                                           |
