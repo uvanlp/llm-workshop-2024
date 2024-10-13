@@ -15,6 +15,10 @@ The workshop registration is open to anyone who is interested in LLM research an
 ~~There are different ways to participate in this workshop, please check out the [Call for Participation](calls.md) if you are interested!~~ (The submission portal is closed.)
 
 
+## [Schedule](./schedule.md)
+
+## [Participant Instructions](./instructions.md)
+
 ## Goals
 
 Large language models (LLMs) are advanced AI systems that excel in comprehending and generating human language. They utilize deep learning techniques to achieve unprecedented scale and complexity in language processing. One prominent example of LLM is ChatGPT, and they find application in intelligent educational tools, offering personalized tutoring and answering questions across various subjects. Moreover, LLMs have potential applications in scientific research by summarizing scientific discovery, extracting key information, and even deriving research plans. These capabilities can be extended to assist engineering researchers and educators in their domains.
@@ -25,10 +29,6 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 - Dates: Oct. 19 -- Oct. 20
 - Location: Thornton Hall A
 
-
-## Tentative Agenda 
-
-**Coming Soon!**
 
 ## Organizers
 
@@ -46,10 +46,10 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 <!-- |                                                 |   |   | -->
 
 
-## Committee Members
+## Committee members
 
-TBA
-
+## Contact the organizers
+Email to uva-llm-ws2024@virginia.edu
 
 ## Acknowledgment
 
