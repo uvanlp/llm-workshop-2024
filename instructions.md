@@ -1,5 +1,5 @@
 
-__Please [RSVP](https://forms.gle/YDu7xEGx8cCDYNp39) if you haven't. Thanks!__
+__All authors: Please [RSVP](https://forms.gle/YDu7xEGx8cCDYNp39) if you haven't. Thanks!__
 
 ## Poster Presentation
 
@@ -11,7 +11,7 @@ __Please [RSVP](https://forms.gle/YDu7xEGx8cCDYNp39) if you haven't. Thanks!__
 
 For CS students, you may use the poster printing service by following instructions on [this page](https://www.cs.virginia.edu/computing/doku.php?id=poster_printing).
 
-## Lightning Talk
+## Lightning Talks
 
 - When: There will be two sessions. Please find your assigned session and order below. 
 - Length: each talk **three** minutes.
@@ -19,7 +19,7 @@ For CS students, you may use the poster printing service by following instructio
   - Must be a single PDF file. File name: "{day1 &#124; day2}_order_LastName.pdf". Examples: day1_02_smith.pdf, day2_13_Ali.pdf.
   - Before __Thursday Oct. 17, 11:59 PM__, upload the file via [this link](https://virginia.box.com/s/wt7s9uzftlan7uqf92ik4v7nvk7zqnfp) 
   - Slide contents: you may reuse/re-organize your poster content (if there's one). Or create anew. 
-- You do NOT have to bring your slides to the workshop. Session chairs will load everyone's slides to the presenting PC ahead of time. 
+- You do NOT have to copy your slides to the presenting PC. Session chairs will load everyone's slides to the presenting PC ahead of time. 
 - Before your session, see your session chair (see below) and introduce yourself.
 - Have fun!
 
@@ -45,7 +45,7 @@ Student session chair: Elizabeth Palmieri
 | 14                 | Crafting Conversational Companions: Exploring Older Adult's Perception and Use of LLM-Powered Voice Assistants with Induced Personalities |
 
 
-### Oct 20th (tentative: 2.30p-3.30p)
+### Oct 20th (tentative: 2.45p-3.45p)
 
 Student session chair: Afsara Benazir (hys4qm)
 

@@ -17,7 +17,7 @@ The workshop registration is open to anyone who is interested in LLM research an
 
 ## [Schedule](./schedule.md)
 
-## [Participant Instructions](./instructions.md)
+## [Instructions for talks and posters](./instructions.md)
 
 ## Goals
 
@@ -54,6 +54,8 @@ Email to uva-llm-ws2024@virginia.edu
 ## Acknowledgment
 
 This workshop is supported by the UVA Engineering Research Interest Group (RIG) program.
+The workshop logistics are made possible via the support of the CS department.
+
 
 <p align="center">
   <img style='width: 20%; object-fit: contain' src="uva-seas.jpg"/>
