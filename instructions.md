@@ -1,15 +1,15 @@
+
+Please [RSVP](https://forms.gle/YDu7xEGx8cCDYNp39) if you haven't. Thanks! 
+
 ## Poster Presentation
 
 
-- Poster size:  
-- Two poster sessions
-- 12:00 PM - 1:30 PM
-- Get your poster ready, on the first day before 12:00 PM, and leave it there even after the poster session
+- Poster size: 24 x 36 in
+- We have two poster sessionss, one on each day, from 12:00 PM to 1:30 PM. 
+- We will have the poster easels and boards setup and ready to use before the workshop starts. When you arrive, feel free to pick en available one, and get your poster ready. 
+- Your poster will be there for the whole workshop, which will give the partcipanents more time to get familiar of your work. 
 
-
-Your poster will be there for the whole workshop, which will give the partcipanents more time to get familiar of your work. Please pick your poster up before at the end of the workshop on the second day (around October 20, 4:45 PM). 
-
-For CS students, you may use the poster printing service by following instructions on this page.
+For CS students, you may use the poster printing service by following instructions on [this page](https://www.cs.virginia.edu/computing/doku.php?id=poster_printing).
 
 ## Lightning Talk
 
