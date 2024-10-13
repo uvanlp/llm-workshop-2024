@@ -54,7 +54,7 @@ Email to uva-llm-ws2024@virginia.edu
 ## Acknowledgment
 
 This workshop is supported by the UVA Engineering Research Interest Group (RIG) program.
-The workshop logistics are made possible via the support of the staff in the CS department.
+The workshop logistics are made possible via the support of the CS department.
 
 
 <p align="center">
