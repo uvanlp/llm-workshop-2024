@@ -45,7 +45,7 @@ Student session chair: Elizabeth Palmieri
 | 14                 | Crafting Conversational Companions: Exploring Older Adult's Perception and Use of LLM-Powered Voice Assistants with Induced Personalities |
 
 
-### Oct 20th (tentative: 2.30p-3.30p)
+### Oct 20th (tentative: 2.45p-3.45p)
 
 Student session chair: Afsara Benazir (hys4qm)
 
