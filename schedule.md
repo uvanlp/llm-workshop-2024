@@ -13,7 +13,7 @@ WIP -- Oct 13 2024
 | 12:00 PM - 1:30 PM       | Lunch/Poster Presentation       | Lunch: Rodman room                                                                                        |
 | 1:30 PM - 2:30 PM        | Panel Discussion: LLM technologies | Host: Felix Lin<br>Panelists: Aidong Zhang (CS)<br>Miaomiao Zhang (ECE)<br>Jingyang (ECE)<br>Yangfeng Ji (CS) |
 | 2:30 PM - 3:00 PM        | Coffee Break                    |                                                                                                           |
-| 3:00 PM - 4:00 PM        | Panel Discussion                | Host: Prasanna Balachandran<br>Panelists: Anil Vullikanti (CS/Biocomplexity)<br>Laura Barnes (SE)<br>Tariq Iqbal (SE) |
+| 3:00 PM - 4:00 PM        | Panel Discussion: LLM applications | Host: Prasanna Balachandran<br>Panelists: Anil Vullikanti (CS/Biocomplexity)<br>Laura Barnes (SE)<br>Tariq Iqbal (SE) <br> Stephen Baek (SDS) <br> |
 | 4:00 PM - 4:15 PM        | Short Break                     |                                                                                                           |
 | 4:15 PM - 5:15 PM        | Student Lightning Talks         | Student chair: <TBD>                                                                                                          |
 | 5:15 PM - 5:30 PM        | Summary and agenda for day 2    |                                                                                                           |
