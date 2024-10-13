@@ -10,8 +10,8 @@ WIP -- Oct 13 2024
 | 9:15 AM - 10:15 AM  | Keynote                            | Speaker: Dr. Wesley Reinhart, Assistant Professor in Materials Science and Engineering, Penn State <br>Host: Prasanna Balachandran        |
 | 10:15 AM - 10:45 AM | Coffee Break                       |                                                                                                                                           |
 | 10:45 AM - 11:45 AM | Faculty Lightning Talks            | Host: Yangfeng Ji<br>Speakers: Ferdinando Fioretto (CS)<br>Yen Ling Kuo (CS)<br>Tom Hartvigsen (SDS)<br>Yu Meng (CS)<br>Gefforey Fox (CS) |
-| 12:00 PM - 1:30 PM  | Lunch/Poster Presentation          | <!-- Lunch: Rodman room  -->                                                                                                                  |
-| 1:30 PM - 2:30 PM   | Panel Discussion: LLM technologies | Host: Felix Lin<br>Panelists: Aidong Zhang (CS)<br>Miaomiao Zhang (ECE)<br>Jing Yang (ECE)<br>Yangfeng Ji (CS)                             |
+| 12:00 PM - 1:30 PM  | Lunch/Poster Presentation          | Lunch: Rodman room                                                                                                                        |
+| 1:30 PM - 2:30 PM   | Panel Discussion: LLM technologies | Host: Felix Lin<br>Panelists: Aidong Zhang (CS)<br>Miaomiao Zhang (ECE)<br>Jing Yang (ECE)<br>Yangfeng Ji (CS)                            |
 | 2:30 PM - 3:00 PM   | Coffee Break                       |                                                                                                                                           |
 | 3:00 PM - 4:00 PM   | Panel Discussion: LLM applications | Host: Prasanna Balachandran<br>Panelists: Stephen Baek (SDS) <br>Afsaneh Doryab (SE/CS)<br>Tariq Iqbal (SE) <br>Sarah Sun (MAE)           |
 | 4:00 PM - 4:15 PM   | Short Break                        |                                                                                                                                           |
