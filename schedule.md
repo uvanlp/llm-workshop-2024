@@ -3,6 +3,7 @@ WIP -- Oct 13 2024
 
 ### Day 1: Oct 19th (Sat) 
 
+
 | Time                | Event                              | Note                                                                                                                                               | Location           |
 |---------------------|------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
 | 8:00 AM - 9:00 AM   | Breakfast                          |                                                                                                                                                    | Rodman room        |
@@ -17,7 +18,6 @@ WIP -- Oct 13 2024
 | 4:00 PM - 4:15 PM   | Short Break                        |                                                                                                                                                    |                    |
 | 4:15 PM - 5:15 PM   | Student Lightning Talks            | Student chair: Elizabeth Palmieri                                                                                                                  | Thornton A120      |
 | 5:15 PM - 5:30 PM   | Summary and agenda for day 2       |                                                                                                                                                    | Thornton A120      |
-
 
 
 ### Day 2: Oct 20th (Sun) 
