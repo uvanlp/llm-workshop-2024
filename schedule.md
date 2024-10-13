@@ -27,7 +27,7 @@ WIP -- Oct 13 2024
 | 10:15 AM - 10:45 AM      | Coffee Break                                            |                                                                                                           |
 | 10:45 AM - 11:45 AM      | Roundtable discussion on broadening participation in LLM | Host: Meiqin Li and Sara Riggs                                                                            |
 | 12:00 PM - 1:30 PM       | Lunch/Poster Presentation                               | Location: Rodman room                                                                                     |
-| 1:30 PM - 2:30 PM        | Tutorial: resources to LLM users                        | Host: Yangfeng Ji                                                                                               |
+| 1:30 PM - 2:30 PM        | Tutorial: resources to LLM users                        | Speaker: <Yangfeng Ji>                                                                                               |
 | 2:30 PM - 2:45 PM        | Short Break                                             |                                                                                                           |
 | 2:45 PM - 3:45 PM        | Student Lightning Talks                                 | Student chair: <TBD>                                                                                                           |
 | 4:00 PM - 4:15 PM        | Closing remarks                                         | The organizing committee                                                                                  |
