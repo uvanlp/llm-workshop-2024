@@ -27,21 +27,23 @@ For CS students, you may use the poster printing service by following instructio
 
 Student session chair: Elizabeth Palmieri
 
-| Presentation Order | Title                                                                                                                       |
-|--------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| 01                 | Fast and Accurate Language Model Decoding via Parallel Token Processing                                                     |
-| 02                 | Interpretable Vision-Language-Action Models via Skill Diffusion Policies                                                    |
-| 03                 | Investigating Correlations Between Computational Mechanisms of LLMs and Their Performance on Linguistic Test Suites         |
-| 04                 | Assessing Performance and Reliability in Abstractive Text Summarization with LLMs                                           |
-| 05                 | Assessing the Impact of Textual Diversity on Large Language Model Reliability                                               |
-| 06                 | The Impact of Data Frequency on SAXBPE Tokenizer in Chronos for Time Series Tokenization                                    |
-| 07                 | LLMs Meet Palliative Care: Assessing Patient-Provider Communication in Clinics                                              |
-| 08                 | Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction |
-| 09                 | Transformers as Interacting Particle Systems: A Statistical Mechanics Perspective                                           |
-| 10                 | Drive the image generation: Projected Stable Diffusion                                                                      |
-| 11                 | Maximizing the Capabilities of Tiny Speech Foundation Models in a Privacy Preserving Manner                                 |
-| 12                 | Leveraging Librarians' Expertise: Integrating AI Tools and LLMs                                                             |
-| 13                 | Sentiment Analysis on Autism Content in College-Level Textbooks                                                             |
+| Presentation Order | Title                                                                                                                                     |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| 01                 | Fast and Accurate Language Model Decoding via Parallel Token Processing                                                                   |
+| 02                 | Interpretable Vision-Language-Action Models via Skill Diffusion Policies                                                                  |
+| 03                 | Investigating Correlations Between Computational Mechanisms of LLMs and Their Performance on Linguistic Test Suites                       |
+| 04                 | Assessing Performance and Reliability in Abstractive Text Summarization with LLMs                                                         |
+| 05                 | Assessing the Impact of Textual Diversity on Large Language Model Reliability                                                             |
+| 06                 | The Impact of Data Frequency on SAXBPE Tokenizer in Chronos for Time Series Tokenization                                                  |
+| 07                 | LLMs Meet Palliative Care: Assessing Patient-Provider Communication in Clinics                                                            |
+| 08                 | Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction               |
+| 09                 | Transformers as Interacting Particle Systems: A Statistical Mechanics Perspective                                                         |
+| 10                 | Drive the image generation: Projected Stable Diffusion                                                                                    |
+| 11                 | Maximizing the Capabilities of Tiny Speech Foundation Models in a Privacy Preserving Manner                                               |
+| 12                 | Leveraging Librarians' Expertise: Integrating AI Tools and LLMs                                                                           |
+| 13                 | Sentiment Analysis on Autism Content in College-Level Textbooks                                                                           |
+| 14                 | Crafting Conversational Companions: Exploring Older Adult's Perception and Use of LLM-Powered Voice Assistants with Induced Personalities |
+
 
 ### Oct 20th (tentative: 2.30p-3.30p)
 
