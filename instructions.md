@@ -54,3 +54,6 @@ Student session chair: Afsara Benazir (hys4qm)
 | 12                 | Low-rank Fine-tuning: A Fairness Perspective                                                     |
 | 13                 | Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion               |
 | 14                 | An Information Theoretic Approach to Operationalize Right to Data Protection                     |
+
+
+Return to the [main page](README.md).
