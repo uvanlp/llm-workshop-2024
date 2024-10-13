@@ -11,7 +11,7 @@ __All authors: Please [RSVP](https://forms.gle/YDu7xEGx8cCDYNp39) if you haven't
 
 For CS students, you may use the poster printing service by following instructions on [this page](https://www.cs.virginia.edu/computing/doku.php?id=poster_printing).
 
-## Lightning Talk
+## Lightning Talks
 
 - When: There will be two sessions. Please find your assigned session and order below. 
 - Length: each talk **three** minutes.
