@@ -25,7 +25,7 @@ For CS students, you may use the poster printing service by following instructio
 
 ### Oct 19th (tentative: 4.15p-5.15p)
 
-Student session chair: Elizabeth 
+Student session chair: Elizabeth Palmieri
 
 | Presentation Order | Title                                                                                                                       |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------|
