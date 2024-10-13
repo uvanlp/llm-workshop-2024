@@ -10,6 +10,7 @@
 - Please save the file in PDF format and upload the file via [this link](https://virginia.box.com/s/wt7s9uzftlan7uqf92ik4v7nvk7zqnfp) before __Thursday Oct. 17, 11:59 PM__. 
 
 ### Oct 19th (tentative: 4.15p-5.15p)
+
 | Presentation Order | Title                                                                                             |
 |--------------------|---------------------------------------------------------------------------------------------------|
 | 1                  | Fast and Accurate Language Model Decoding via Parallel Token Processing                           |
