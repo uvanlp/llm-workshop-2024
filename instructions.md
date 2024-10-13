@@ -7,7 +7,7 @@
 - When: There will be two sessions. Please find your assigned session and order below. 
 - Length: each talk **three** minutes.
 - Slides:
-  - Must be a single PDF file. File name: "{day1 | day2}_order_LastName.pdf". Examples: day1_02_smith.pdf, day2_13_Ali.pdf.
+  - Must be a single PDF file. File name: "{day1 &#124; day2}_order_LastName.pdf". Examples: day1_02_smith.pdf, day2_13_Ali.pdf.
   - Before __Thursday Oct. 17, 11:59 PM__, upload the file via [this link](https://virginia.box.com/s/wt7s9uzftlan7uqf92ik4v7nvk7zqnfp) 
   - Slide contents: you may reuse/re-organize your poster content (if there's one). Or create anew. 
 - You do NOT have to bring your slides to the workshop. Session chairs will load everyone's slides to the presenting PC ahead of time. 
