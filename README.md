@@ -68,6 +68,9 @@ The workshop logistics are made possible via the support of the CS department.
 
 <p align="center">
   <img style='width: 20%; object-fit: contain' src="uva-seas.jpg"/>
+  &nbsp
+  &nbsp
+  &nbsp
   <img style='width: 20%; object-fit: contain' src="uva-cs.jpg"/>
 </p>
 
