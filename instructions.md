@@ -27,44 +27,45 @@ For CS students, you may use the poster printing service by following instructio
 
 Student session chair: Elizabeth Palmieri
 
-| Presentation Order | Title                                                                                                                                     |
-|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| 01                 | Fast and Accurate Language Model Decoding via Parallel Token Processing                                                                   |
-| 02                 | Interpretable Vision-Language-Action Models via Skill Diffusion Policies                                                                  |
-| 03                 | Investigating Correlations Between Computational Mechanisms of LLMs and Their Performance on Linguistic Test Suites                       |
-| 04                 | Assessing Performance and Reliability in Abstractive Text Summarization with LLMs                                                         |
-| 05                 | Assessing the Impact of Textual Diversity on Large Language Model Reliability                                                             |
-| 06                 | The Impact of Data Frequency on SAXBPE Tokenizer in Chronos for Time Series Tokenization                                                  |
-| 07                 | LLMs Meet Palliative Care: Assessing Patient-Provider Communication in Clinics                                                            |
-| 08                 | Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction               |
-| 09                 | Transformers as Interacting Particle Systems: A Statistical Mechanics Perspective                                                         |
-| 10                 | Drive the image generation: Projected Stable Diffusion                                                                                    |
-| 11                 | Maximizing the Capabilities of Tiny Speech Foundation Models in a Privacy Preserving Manner                                               |
-| 12                 | Leveraging Librarians' Expertise: Integrating AI Tools and LLMs                                                                           |
-| 13                 | Sentiment Analysis on Autism Content in College-Level Textbooks                                                                           |
-| 14                 | Crafting Conversational Companions: Exploring Older Adult's Perception and Use of LLM-Powered Voice Assistants with Induced Personalities |
+| Presentation Order | Title                                                                                                                       |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 01                 | Fast and Accurate Language Model Decoding via Parallel Token Processing                                                     |
+| 02                 | Interpretable Vision-Language-Action Models via Skill Diffusion Policies                                                    |
+| 03                 | Investigating Correlations Between Computational Mechanisms of LLMs and Their Performance on Linguistic Test Suites         |
+| 04                 | Assessing Performance and Reliability in Abstractive Text Summarization with LLMs                                           |
+| 05                 | Assessing the Impact of Textual Diversity on Large Language Model Reliability                                               |
+| 06                 | The Impact of Data Frequency on SAXBPE Tokenizer in Chronos for Time Series Tokenization                                    |
+| 07                 | LLMs Meet Palliative Care: Assessing Patient-Provider Communication in Clinics                                              |
+| 08                 | Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective for Molecular Property Prediction |
+| 09                 | Transformers as Interacting Particle Systems: A Statistical Mechanics Perspective                                           |
+| 10                 | Drive the image generation: Projected Stable Diffusion                                                                      |
+| 11                 | Maximizing the Capabilities of Tiny Speech Foundation Models in a Privacy Preserving Manner                                 |
+| 12                 | Leveraging Librarians' Expertise: Integrating AI Tools and LLMs                                                             |
+| 13                 | Sentiment Analysis on Autism Content in College-Level Textbooks                                                             |
+| 14                 | An Information Theoretic Approach to Operationalize Right to Data Protection                                                |
 
 
 ### Second session of lightning talk: Oct 20th (tentative: 2.45p-3.45p)
 
 Student session chair: Afsara Benazir (hys4qm)
 
-| Presentation Order | Title                                                                                           |
-|--------------------|-------------------------------------------------------------------------------------------------|
-| 01                 | Two Tales of Persona in LLMs: Role-Playing and Personalization                                  |
-| 02                 | Improving Large Language Model Performance on Aspect Based Text Summarization                   |
-| 03                 | Comparing Learning Paradigms in Large Language Models with Intrinsic Dimension Analysis         |
-| 04                 | LGSU: A PROACTIVE CONVERSATIONAL AGENT FRAMEWORK FOR MENTAL HEALTH DIFFERENTIAL DIAGNOSIS       |
-| 05                 | Are Language Models Actually Useful for Time Series Forecasting?                                |
-| 06                 | Observing the Effect of RAG models on Student Learning in Undergraduate Data Science Coursework |
-| 07                 | KG-CF: Knowledge Graph Completion with Context Filtering                                        |
-| 08                 | Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning                   |
-| 09                 | Integrating LLMs and Time Series Foundation Models for Earthquakes and Hydrology                |
-| 10                 | Constrained Synthesis with Projected Diffusion Models                                           |
-| 11                 | Studying the Privacy of LLM Agents                                                              |
-| 12                 | Low-rank Fine-tuning: A Fairness Perspective                                                    |
-| 13                 | Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion              |
-| 14                 | An Information Theoretic Approach to Operationalize Right to Data Protection                    |
+| Presentation Order | Title                                                                                                                                     |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| 01                 | Two Tales of Persona in LLMs: Role-Playing and Personalization                                                                            |
+| 02                 | Improving Large Language Model Performance on Aspect Based Text Summarization                                                             |
+| 03                 | Comparing Learning Paradigms in Large Language Models with Intrinsic Dimension Analysis                                                   |
+| 04                 | LGSU: A PROACTIVE CONVERSATIONAL AGENT FRAMEWORK FOR MENTAL HEALTH DIFFERENTIAL DIAGNOSIS                                                 |
+| 05                 | Are Language Models Actually Useful for Time Series Forecasting?                                                                          |
+| 06                 | Observing the Effect of RAG models on Student Learning in Undergraduate Data Science Coursework                                           |
+| 07                 | KG-CF: Knowledge Graph Completion with Context Filtering                                                                                  |
+| 08                 | Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning                                                             |
+| 09                 | Integrating LLMs and Time Series Foundation Models for Earthquakes and Hydrology                                                          |
+| 10                 | Constrained Synthesis with Projected Diffusion Models                                                                                     |
+| 11                 | Studying the Privacy of LLM Agents                                                                                                        |
+| 12                 | Low-rank Fine-tuning: A Fairness Perspective                                                                                              |
+| 13                 | Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion                                                        |
+| 14                 | Crafting Conversational Companions: Exploring Older Adult's Perception and Use of LLM-Powered Voice Assistants with Induced Personalities |
+|                    |                                                                                                                                           |
 
 
 Return to the [main page](README.md).
