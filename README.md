@@ -38,6 +38,9 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 - Meiqin Li (APMA)
 - Sara Riggs (SIE)
 
+**Contact the organizers**
+
+Email to uva-llm-ws2024@virginia.edu
 
 <!-- |                                                 |   |   | -->
 <!-- |:------------------------------------------------|:--|---| -->
@@ -46,10 +49,16 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 <!-- |                                                 |   |   | -->
 
 
-## Committee members
+## Student committee members
 
-## Contact the organizers
-Email to uva-llm-ws2024@virginia.edu
+**Co-chairs of lightning talks**
+- Afsara Benazir
+- Elizabeth Palmieri
+
+**Co-chairs of poster sessions**
+- Rongxiang Wang
+
+
 
 ## Acknowledgment
 
