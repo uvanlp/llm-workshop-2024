@@ -42,21 +42,18 @@ Large language models (LLMs) are advanced AI systems that excel in comprehending
 
 Email to uva-llm-ws2024@virginia.edu
 
-<!-- |                                                 |   |   | -->
-<!-- |:------------------------------------------------|:--|---| -->
-<!-- | <img src="figures/yangfeng.png" width="100px"/> |   |   | -->
-<!-- | Yangfeng Ji                                     |   |   | -->
-<!-- |                                                 |   |   | -->
-
 
 ## Student committee members
 
 **Co-chairs of lightning talks**
+
 - Afsara Benazir
 - Elizabeth Palmieri
 
 **Co-chairs of poster sessions**
+
 - Rongxiang Wang
+- Dane Williamson
 
 
 
