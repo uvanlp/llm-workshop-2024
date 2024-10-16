@@ -25,7 +25,7 @@
 | 10:15 AM - 10:45 AM | Coffee Break ☕                                          |                                                                                                     |                    |
 | 10:45 AM - 11:45 AM | Roundtable discussion on broadening participation in LLM | Hosts: Meiqin Li and Sara Riggs                                                                     | Thornton A120      |
 | 12:00 PM - 1:30 PM  | Lunch/Poster Presentations                               | Student chair: Dane Williamson                                  | Posters: Thornton A Hallway <br>Lunch: Rodman room |
-| 1:30 PM - 2:30 PM   | Tutorial: resources to LLM users                         | Speaker: <Yangfeng Ji>                                                                              | Thornton A120      |
+| 1:30 PM - 2:30 PM   | Tutorial: resources to LLM users                         | Speaker: Yangfeng Ji and Felix Lin                                                                              | Thornton A120      |
 | 2:30 PM - 2:45 PM   | Coffee Break ☕                                          |                                                                                                     |                    |
 | 2:45 PM - 3:45 PM   | Student Lightning Talks                                  | Student chair: Afsara Benazir <br> [Detailed schedule](instructions.md)                             | Thornton A120      |
 | 4:00 PM - 4:15 PM   | Closing remarks                                          | The organizing committee                                                                            | Thornton A120      |
