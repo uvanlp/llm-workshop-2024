@@ -11,7 +11,7 @@
 | 1:30 PM - 2:30 PM   | Panel Discussion: LLM technologies | Host: Felix Lin<br>Panelists: Geoffrey Fox (CS/Biocomplexity)<br> Aidong Zhang (CS)<br>Miaomiao Zhang (ECE)<br>Jing Yang (ECE)<br>Yangfeng Ji (CS) | Thornton A120      |
 | 2:30 PM - 3:00 PM   | Coffee Break ☕                    |                                                                                                                                                    |                    |
 | 3:00 PM - 4:00 PM   | Panel Discussion: LLM applications | Host: Prasanna Balachandran<br>Panelists: Stephen Baek (SDS) <br>Afsaneh Doryab (SE/CS)<br>Tariq Iqbal (SE/CS) <br>Sarah Sun (MAE)                    | Thornton A120      |
-| 4:00 PM - 4:15 PM   | Coffee Break ☕                    |                                                                                                                                                    |                    |
+| 4:00 PM - 4:15 PM   | Coffee Break (15 min) ☕                    |                                                                                                                                                    |                    |
 | 4:15 PM - 5:15 PM   | Student Lightning Talks            | Student chair: Elizabeth Palmieri  <br> [Detailed schedule](instructions.md)                                                                       | Thornton A120      |
 | 5:15 PM - 5:30 PM   | Summary and agenda for day 2       |                                                                                                                                                    | Thornton A120      |
 
@@ -26,7 +26,7 @@
 | 10:45 AM - 11:45 AM | Roundtable discussion on broadening participation in LLM | Hosts: Meiqin Li and Sara Riggs                                                                     | Thornton A120      |
 | 12:00 PM - 1:30 PM  | Lunch/Poster Presentations                               | Student chair: Dane Williamson                                  | Posters: Thornton A Hallway <br>Lunch: Rodman room |
 | 1:30 PM - 2:30 PM   | Tutorial: resources to LLM users                         | Speaker: Yangfeng Ji and Felix Lin                                                                              | Thornton A120      |
-| 2:30 PM - 2:45 PM   | Coffee Break ☕                                          |                                                                                                     |                    |
+| 2:30 PM - 2:45 PM   | Coffee Break (15 min) ☕                                          |                                                                                                     |                    |
 | 2:45 PM - 3:45 PM   | Student Lightning Talks                                  | Student chair: Afsara Benazir <br> [Detailed schedule](instructions.md)                             | Thornton A120      |
 | 4:00 PM - 4:15 PM   | Closing remarks                                          | The organizing committee                                                                            | Thornton A120      |
 
