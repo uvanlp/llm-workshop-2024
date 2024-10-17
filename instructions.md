@@ -17,7 +17,7 @@ For CS students, you may use the poster printing service by following instructio
 - Length: each talk **three** minutes.
 - Slides:
   - Must be a single PDF file. File name: "{day1 &#124; day2}_order_LastName.pdf". Examples: day1_02_smith.pdf, day2_13_Ali.pdf.
-  - Before __Thursday Oct. 17, 11:59 PM__, upload the file via [this link](https://virginia.box.com/s/wt7s9uzftlan7uqf92ik4v7nvk7zqnfp) or send an email with the PDF file to _LLM_Wor.x9m3w41rnmy6cwco@u.box.com_
+  - Before __Thursday Oct. 17, 11:59 PM__, upload the file via [this link](https://virginia.app.box.com/f/456068c41db446bdbac9d4a1aeb6ecab) or send an email with the PDF file to _LLM_Wor.x9m3w41rnmy6cwco@u.box.com_
   - Slide contents: you may reuse/re-organize your poster content (if there's one). Or create anew. 
 - You do NOT have to copy your slides to the presenting PC. Session chairs will load everyone's slides to the presenting PC ahead of time. 
 - Before your session, see your session chair (see below) and introduce yourself.
