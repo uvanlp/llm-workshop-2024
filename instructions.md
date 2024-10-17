@@ -68,7 +68,6 @@ Student session chair: Afsara Benazir (hys4qm)
 | 12                 | Low-rank Fine-tuning: A Fairness Perspective                                                                                              |
 | 13                 | Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion                                                        |
 | 14                 | Crafting Conversational Companions: Exploring Older Adult's Perception and Use of LLM-Powered Voice Assistants with Induced Personalities |
-|                    |                                                                                                                                           |
 
 #### 🥇 Vote for your favorite talks -- Session 2 (UVA logins required)
 https://forms.office.com/r/vQGU9SvLBx
