@@ -21,7 +21,7 @@ For CS students, you may use the poster printing service by following instructio
   - Slide contents: you may reuse/re-organize your poster content (if there's one). Or create anew. 
 - You do NOT have to copy your slides to the presenting PC. Session chairs will load everyone's slides to the presenting PC ahead of time. 
 - Before your session, see your session chair (see below) and introduce yourself.
-- **Awards**. All workshop participants are invited: use links below to vote for your favorite talks. Out of the two sessions, the talks receiving the most votes will receive the Audience's Choice Awards, which the organizers will hand out at the end of the workshop.
+- 🥇 Awards. All workshop participants are invited: use links below to vote for your favorite talks. Out of the two sessions, the talks receiving the most votes will receive the Audience's Choice Awards, which the organizers will hand out at the end of the workshop.
 - Have fun!
 
 ### First session of lightning talk: Oct 19th (tentative: 4.15p-5.15p)
@@ -45,7 +45,7 @@ Student session chair: Elizabeth Palmieri
 | 13                 | Sentiment Analysis on Autism Content in College-Level Textbooks                                                             |
 | 14                 | An Information Theoretic Approach to Operationalize Right to Data Protection                                                |
 
-#### 🗳️ Vote for your favorite talks -- Session 1 (UVA logins required)
+#### 🥇 Vote for your favorite talks -- Session 1 (UVA logins required)
 https://forms.office.com/r/kqeFF2M4qY
 
 ### Second session of lightning talk: Oct 20th (tentative: 2.45p-3.45p)
@@ -70,7 +70,7 @@ Student session chair: Afsara Benazir (hys4qm)
 | 14                 | Crafting Conversational Companions: Exploring Older Adult's Perception and Use of LLM-Powered Voice Assistants with Induced Personalities |
 |                    |                                                                                                                                           |
 
-#### 🗳️ Vote for your favorite talks -- Session 2 (UVA logins required)
+#### 🥇 Vote for your favorite talks -- Session 2 (UVA logins required)
 https://forms.office.com/r/vQGU9SvLBx
 
 Return to the [main page](README.md).
