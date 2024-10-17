@@ -21,7 +21,7 @@ For CS students, you may use the poster printing service by following instructio
   - Slide contents: you may reuse/re-organize your poster content (if there's one). Or create anew. 
 - You do NOT have to copy your slides to the presenting PC. Session chairs will load everyone's slides to the presenting PC ahead of time. 
 - Before your session, see your session chair (see below) and introduce yourself.
-- **Awards**. Use the link below to cast your votes for your favorite talks. Out of the two sessions, the talks receiving the most votes will receive the Audience's Choice Awards, which the organizers will hand out at the end of the workshop.
+- **Awards**. All workshop participants are invited: use links below to vote for your favorite talks. Out of the two sessions, the talks receiving the most votes will receive the Audience's Choice Awards, which the organizers will hand out at the end of the workshop.
 - Have fun!
 
 ### First session of lightning talk: Oct 19th (tentative: 4.15p-5.15p)
