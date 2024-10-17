@@ -17,7 +17,9 @@ The workshop registration is open to anyone who is interested in LLM research an
 
 ## [Schedule](./schedule.md)
 
-## [Instructions for talks and posters](./instructions.md)
+## [Keynotes](./keynotes.md)
+
+## [Instructions for lightning talks and posters](./instructions.md)
 
 ## Goals
 
