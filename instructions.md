@@ -45,7 +45,7 @@ Student session chair: Elizabeth Palmieri
 | 13                 | Sentiment Analysis on Autism Content in College-Level Textbooks                                                             |
 | 14                 | An Information Theoretic Approach to Operationalize Right to Data Protection                                                |
 
-#### 🗳️ Vote for your favorite talks -- Day 1 (up to 3, UVA logins required)
+#### 🗳️ Vote for your favorite talks -- Session 1 (UVA logins required)
 https://forms.office.com/r/kqeFF2M4qY
 
 ### Second session of lightning talk: Oct 20th (tentative: 2.45p-3.45p)
@@ -70,7 +70,7 @@ Student session chair: Afsara Benazir (hys4qm)
 | 14                 | Crafting Conversational Companions: Exploring Older Adult's Perception and Use of LLM-Powered Voice Assistants with Induced Personalities |
 |                    |                                                                                                                                           |
 
-#### 🗳️ Vote for your favorite talks -- Day 2 (UVA logins required)
+#### 🗳️ Vote for your favorite talks -- Session 2 (UVA logins required)
 https://forms.office.com/r/vQGU9SvLBx
 
 Return to the [main page](README.md).
