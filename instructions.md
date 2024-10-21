@@ -31,7 +31,7 @@ Student session chair: Elizabeth Palmieri
 | Presentation Order | Title                                                                                                                       |
 |--------------------|-----------------------------------------------------------------------------------------------------------------------------|
 | 01                 | Fast and Accurate Language Model Decoding via Parallel Token Processing                                                     |
-| 02                 | Interpretable Vision-Language-Action Models via Skill Diffusion Policies                                                    |
+| 02                 | Interpretable Vision-Language-Action Models via Skill Diffusion Policies (Audience's 🥇)                                                   |
 | 03                 | Investigating Correlations Between Computational Mechanisms of LLMs and Their Performance on Linguistic Test Suites         |
 | 04                 | Assessing Performance and Reliability in Abstractive Text Summarization with LLMs                                           |
 | 05                 | Assessing the Impact of Textual Diversity on Large Language Model Reliability                                               |
@@ -62,11 +62,11 @@ Student session chair: Afsara Benazir (hys4qm)
 | 06                 | Observing the Effect of RAG models on Student Learning in Undergraduate Data Science Coursework                                           |
 | 07                 | KG-CF: Knowledge Graph Completion with Context Filtering                                                                                  |
 | 08                 | Data-adaptive Differentially Private Prompt Synthesis for In-Context Learning                                                             |
-| 09                 | Integrating LLMs and Time Series Foundation Models for Earthquakes and Hydrology                                                          |
+| 09                 | Integrating LLMs and Time Series Foundation Models for Earthquakes and Hydrology (Audience's 🥇)                                                          |
 | 10                 | Constrained Synthesis with Projected Diffusion Models                                                                                     |
 | 11                 | Studying the Privacy of LLM Agents                                                                                                        |
 | 12                 | Low-rank Fine-tuning: A Fairness Perspective                                                                                              |
-| 13                 | Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion                                                        |
+| 13                 | Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion (Audience's 🥇)                                                        |
 | 14                 | Crafting Conversational Companions: Exploring Older Adult's Perception and Use of LLM-Powered Voice Assistants with Induced Personalities |
 
 #### 🥇 Vote for your favorite talks -- Session 2 (UVA logins required)

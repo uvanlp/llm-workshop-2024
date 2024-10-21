@@ -4,6 +4,8 @@
   <img style='height: 100%; width: 100%; object-fit: contain' src="thornton-hall.jpeg"/>
 </p>
 
+## 10/20/24: we had a great workshop - thanks everyone! 
+
 ## How to Participate
 
 
@@ -19,7 +21,7 @@ The workshop registration is open to anyone who is interested in LLM research an
 
 ## [Keynotes](./keynotes.md)
 
-## [Instructions for lightning talks and posters](./instructions.md)
+## [Lightning talks and posters](./instructions.md)
 
 ## Goals
 
@@ -65,7 +67,13 @@ Email to uva-llm-ws2024@virginia.edu
 - Aidan San
 
 
+**Local organizing chairs**
 
+- Karolina Naranjo-Velasco
+- Yixuan Ren
+- Caroline Gihlstorf
+- Aidan San
+  
 ## Acknowledgment
 
 This workshop is supported by the UVA Engineering Research Interest Group (RIG) program.
