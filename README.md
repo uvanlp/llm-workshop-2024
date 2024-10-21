@@ -57,6 +57,13 @@ Email to uva-llm-ws2024@virginia.edu
 - Rongxiang Wang
 - Dane Williamson
 
+**Local organizing chairs**
+
+- Caroline Gihlstorf
+- Karolina Naranjo-Velasco
+- Yixuan Ren
+- Aidan San
+
 
 
 ## Acknowledgment
