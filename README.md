@@ -65,14 +65,6 @@ Email to uva-llm-ws2024@virginia.edu
 - Karolina Naranjo-Velasco
 - Yixuan Ren
 - Aidan San
-
-
-**Local organizing chairs**
-
-- Karolina Naranjo-Velasco
-- Yixuan Ren
-- Caroline Gihlstorf
-- Aidan San
   
 ## Acknowledgment
 
