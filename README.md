@@ -4,7 +4,7 @@
 ## 10/20/24: we had a great workshop - thanks everyone! 
 
 <p align="center">
-  <img style='height: 50%; width: 50%; object-fit: contain' src="photo_collage_3x3.jpg"/>
+  <img style='height: 100%; width: 100%; object-fit: contain' src="photo_collage_3x3.jpg"/>
 </p>
 
 ## How to Participate
