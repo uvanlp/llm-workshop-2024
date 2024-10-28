@@ -3,6 +3,9 @@
 
 ## 10/20/24: we had a great workshop - thanks everyone! 
 
+We had more than 160 registered participants from seven departments in UVA engineering and five other schools/colleges of UVA.
+It was informative and fun. 
+
 <p align="center">
   <img style='height: 100%; width: 100%; object-fit: contain' src="photo_collage_3x3.jpg"/>
 </p>
