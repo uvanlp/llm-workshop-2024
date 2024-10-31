@@ -23,6 +23,10 @@ The workshop registration is open to anyone who is interested in LLM research an
 
 ## [Schedule](./schedule.md)
 
+### Tutorial on LLM resources at UVA
+
+[Video](https://virginia.app.box.com/s/aajvi9wd17oiejiaz0ba8ln85x6j839a)   (UVA login required)
+
 ## [Keynotes](./keynotes.md)
 
 ## [Lightning talks and posters](./instructions.md)
