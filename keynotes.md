@@ -2,6 +2,8 @@
 
 Speaker: Dr. Wesley Reinhart, Assistant Professor in Materials Science and Engineering, Penn State
 
+[Slides](https://virginia.box.com/s/16nf121ofnd5awmg2zs7tv6dal55atcm) (UVA login required) 
+
 ### Abstract
 Large Language Models (LLMs) have been the subject of countless headlines in mainstream news outlets in recent years as the world grapples with legal and ethical issues related to their training and use. The widespread adoption of LLMs appears irreversible, with estimates of billions of queries being processed each day, yet the implications for science are still murky. In this talk, I will present my thoughts on the roles of LLMs in the physical sciences, including some exciting opportunities and potential pitfalls. I will give a detailed description of two applications of LLMs to materials science that my group has worked on recently: small molecule design and sequence-controlled copolymer self-assembly. In the case of small molecule design, we leverage the transformer architecture to modify molecules encoded as SMILES strings. We show that LLMs can modify these molecules in various nuanced ways as dictated by natural language prompts. The second problem of copolymer sequence selection highlights the surprising capability of LLMs to perform evolutionary optimization at or above the level of a standard evolutionary algorithm. I will conclude with my thoughts on what characteristics of problems in the physical sciences make them suitable to leverage LLMs and how to use them effectively.
 
